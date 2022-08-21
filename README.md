@@ -1,9 +1,9 @@
-# 模板
+# NTP-Client
 <img alt="Discord" src="https://img.shields.io/discord/926545182407688273">
 
 ------
 
-- 這是一個 ExpTech Github 模板
+- 一種使用 HTTP POST 並依賴 ExpTech Service 的校時方式，平均誤差 `+-0.030` 秒 | 最大誤差 `>1` 秒
 
 ## 索引
 - [貢獻者](#貢獻者)
@@ -11,7 +11,7 @@
 - [合作](#合作)
 
 ## 貢獻者
-- whes1015 `文檔`
+- whes1015 `程式開發` `文檔`
 
 ------
 
